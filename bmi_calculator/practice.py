@@ -57,6 +57,14 @@ func()
 
 print("python is " + x)
 
+x = "awesome"
+def myfunc():
+    global x
+    x="fantastic"
+myfunc()
+print(" my   "+ x)
+
+
 
 
 
