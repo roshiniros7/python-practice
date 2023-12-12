@@ -64,6 +64,10 @@ def myfunc():
 myfunc()
 print(" my   "+ x)
 
+#print a string into the specific program (twinkle twinkle poem)
+print("twinkle twinkle little star \n\t how i wonder what you are! \n\t a"
+       "up above the world so high \n\t like a diamond i the sky")
+
 
 
 
